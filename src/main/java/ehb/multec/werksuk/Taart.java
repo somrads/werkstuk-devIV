@@ -1,5 +1,6 @@
 package ehb.multec.werksuk;
 
+/*
 public class Taart {
     private static Taart taart = null;
 
@@ -26,4 +27,10 @@ public class Taart {
         }
         return taart;
     }
+}
+ */
+public  interface Taart{
+    public String getDescription();
+
+    public double getCost();
 }
