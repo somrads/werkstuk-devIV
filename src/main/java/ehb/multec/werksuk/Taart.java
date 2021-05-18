@@ -5,14 +5,25 @@ public class Taart {
 
     private Taart(){}
 
-    public static Taart getInstance(){
+    static boolean firsThread = true;
+
+    public static Taart getInstance() throws InterruptedException {
         if(taart == null){
+
+            if(firsThread){
+
+                firsThread = false;
+                Thread.sleep(1000);
+            }
+
             taart = new Taart();
+        }
+
+        synchronized (Taart.class){
+            if(taart == null){
+                taart = new Taart();
+            }
         }
         return taart;
     }
 }
-
-
-/*singleton Thread Safe Singleton
- https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples */
