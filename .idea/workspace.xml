@@ -3,8 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b47de0aa-5f06-4845-b92a-b718a1e0437c" name="Default Changelist" comment="" />
+    <list default="true" id="b47de0aa-5f06-4845-b92a-b718a1e0437c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,5 +64,26 @@
       <updated>1621350310374</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="92" key="MergeDialog" timestamp="1621353951909">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="144" y="92" key="MergeDialog/0.25.1440.814/-1355.-1055.1920.1055@0.25.1440.814" timestamp="1621353951909" />
+    <state x="358" y="197" key="MultipleFileMergeDialog" timestamp="1621353951966">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="358" y="197" key="MultipleFileMergeDialog/0.25.1440.814/-1355.-1055.1920.1055@0.25.1440.814" timestamp="1621353951966" />
   </component>
 </project>
