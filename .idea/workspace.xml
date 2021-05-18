@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b47de0aa-5f06-4845-b92a-b718a1e0437c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
