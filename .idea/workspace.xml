@@ -23,8 +23,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b47de0aa-5f06-4845-b92a-b718a1e0437c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/ehb/multec/werksuk/Taart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> a0844473bba8c165d29e1ef6bafc9efac6137425
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +43,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,6 +65,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -76,6 +91,7 @@
       </map>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="WindowStateProjectService">
     <state x="144" y="92" key="MergeDialog" timestamp="1621353951909">
       <screen x="0" y="25" width="1440" height="814" />
@@ -86,4 +102,6 @@
     </state>
     <state x="358" y="197" key="MultipleFileMergeDialog/0.25.1440.814/-1355.-1055.1920.1055@0.25.1440.814" timestamp="1621353951966" />
   </component>
+=======
+>>>>>>> a0844473bba8c165d29e1ef6bafc9efac6137425
 </project>
