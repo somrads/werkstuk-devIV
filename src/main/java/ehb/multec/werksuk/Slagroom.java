@@ -5,7 +5,7 @@ public class Slagroom extends Toppings{
     public Slagroom(Taart newTaart) {
         super(newTaart);
 
-        System.out.println("Chocopoeder bijvoegen");
+        System.out.println("Suikerpoeder bijgevoegd");
 
     }
 

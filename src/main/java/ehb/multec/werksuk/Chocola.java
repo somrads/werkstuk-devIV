@@ -4,9 +4,9 @@ public class Chocola extends Toppings{
     public Chocola(Taart newTaart) {
         super(newTaart);
 
-        System.out.println("Frosting bijvoegen");
+        System.out.println("Frosting bijgevoegd");
 
-        System.out.println("Chocola bijvoegen");
+        System.out.println("Chocola bijgevoegd");
 
     }
 

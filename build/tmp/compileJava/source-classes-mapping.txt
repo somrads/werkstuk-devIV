@@ -1,2 +1,14 @@
 ehb/multec/werksuk/Taart.java
  ehb.multec.werksuk.Taart
+ehb/multec/werksuk/PlainTaart.java
+ ehb.multec.werksuk.PlainTaart
+ehb/multec/werksuk/Bakkerij.java
+ ehb.multec.werksuk.Bakkerij
+ehb/multec/werksuk/Toppings.java
+ ehb.multec.werksuk.Toppings
+ehb/multec/werksuk/Chocola.java
+ ehb.multec.werksuk.Chocola
+ehb/multec/werksuk/Slagroom.java
+ ehb.multec.werksuk.Slagroom
+ehb/multec/werksuk/TaartMaker.java
+ ehb.multec.werksuk.TaartMaker
