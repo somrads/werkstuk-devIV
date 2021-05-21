@@ -1,0 +1,6 @@
+ehb/multec/werksuk/TaartMakerTest.java
+ ehb.multec.werksuk.TaartMakerTest
+ehb/multec/werksuk/BakkerijTest.java
+ ehb.multec.werksuk.BakkerijTest
+ehb/multec/werksuk/BakeInOvenTest.java
+ ehb.multec.werksuk.BakeInOvenTest
