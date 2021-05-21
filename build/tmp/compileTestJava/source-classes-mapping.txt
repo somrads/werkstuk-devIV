@@ -1,6 +1,12 @@
-ehb/multec/werksuk/TaartMakerTest.java
- ehb.multec.werksuk.TaartMakerTest
-ehb/multec/werksuk/BakkerijTest.java
- ehb.multec.werksuk.BakkerijTest
+ehb/multec/werksuk/PlainTaartTest.java
+ ehb.multec.werksuk.PlainTaartTest
+ehb/multec/werksuk/MakePlainCakeTest.java
+ ehb.multec.werksuk.MakePlainCakeTest
 ehb/multec/werksuk/BakeInOvenTest.java
  ehb.multec.werksuk.BakeInOvenTest
+ehb/multec/werksuk/BakkerijTest.java
+ ehb.multec.werksuk.BakkerijTest
+ehb/multec/werksuk/MakeCupCakeTest.java
+ ehb.multec.werksuk.MakeCupCakeTest
+ehb/multec/werksuk/TaartMakerTest.java
+ ehb.multec.werksuk.TaartMakerTest

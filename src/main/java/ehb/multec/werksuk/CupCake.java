@@ -1,14 +1,13 @@
 package ehb.multec.werksuk;
 
-public class PlainTaart implements Taart {
-
+public class CupCake implements Taart{
     @Override
     public String getDescription() {
-        return "Sponge cake";
+        return "Cup cake";
     }
 
     @Override
     public double getCost() {
-        return 44.00;
+        return 3.0;
     }
 }

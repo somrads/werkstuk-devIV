@@ -1,18 +1,24 @@
 ehb/multec/werksuk/Taart.java
  ehb.multec.werksuk.Taart
-ehb/multec/werksuk/PlainTaart.java
- ehb.multec.werksuk.PlainTaart
-ehb/multec/werksuk/TaartMaker.java
- ehb.multec.werksuk.TaartMaker
-ehb/multec/werksuk/Toppings.java
- ehb.multec.werksuk.Toppings
-ehb/multec/werksuk/Chocola.java
- ehb.multec.werksuk.Chocola
-ehb/multec/werksuk/Slagroom.java
- ehb.multec.werksuk.Slagroom
 ehb/multec/werksuk/Bakkerij.java
  ehb.multec.werksuk.Bakkerij
  ehb.multec.werksuk.Bakkerij$1
  ehb.multec.werksuk.Bakkerij$BakkerijHolder
+ehb/multec/werksuk/PlainTaart.java
+ ehb.multec.werksuk.PlainTaart
+ehb/multec/werksuk/Chocola.java
+ ehb.multec.werksuk.Chocola
+ehb/multec/werksuk/TaartMaker.java
+ ehb.multec.werksuk.TaartMaker
+ehb/multec/werksuk/Toppings.java
+ ehb.multec.werksuk.Toppings
+ehb/multec/werksuk/Slagroom.java
+ ehb.multec.werksuk.Slagroom
 ehb/multec/werksuk/BakeInOven.java
  ehb.multec.werksuk.BakeInOven
+ehb/multec/werksuk/MakeCupCake.java
+ ehb.multec.werksuk.MakeCupCake
+ehb/multec/werksuk/MakePlainCake.java
+ ehb.multec.werksuk.MakePlainCake
+ehb/multec/werksuk/CupCake.java
+ ehb.multec.werksuk.CupCake
