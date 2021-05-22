@@ -14,9 +14,6 @@ class CakeMakerTest {
         cupcake.bakeInOven();
 
 
-
-
-
         BakeInOven plaincake = new MakePlainCake();
         System.out.println("Sponge cake recipe");
         plaincake.preheatOven();
