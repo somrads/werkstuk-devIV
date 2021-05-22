@@ -14,23 +14,15 @@ function cakeMaker2(cake){
     }
 }
 
-<<<<<<< HEAD
+
 function quickSort(array){
     if(array.length == 1){
         return array;
     }
-=======
-<<<<<<< HEAD
 const newCake2 = toppings.map(cakeMaker2("cake"));
 document.getElementById("cakes").innerHTML += `<p>${newCake2}</p>`;
 console.log(newCake2);
-=======
-const cakeWithTopping = toppings.map(cakeMaker2("cake"))
-console.log(cakeWithTopping);
->>>>>>> ab0816eaed75a6d01329c7eee8d0415f9262efb3
 
-
->>>>>>> 9feb97c1cd9d5786ad4ca67729026d77862ab940
 
     const pivot = array[array.length - 1]
     const leftArr = [];
