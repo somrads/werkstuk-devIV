@@ -1,6 +1,11 @@
 package ehb.multec.werksuk;
 
-public class MakeCupCake extends BakeInOven{
+public abstract class MakeCupCake extends BakeInOven{
+
+    public MakeCupCake(Slagroom slagroom) {
+        super();
+    }
+
     @Override
     public void preheatOven() {
         super.preheatOven();

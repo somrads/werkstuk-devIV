@@ -1,7 +1,6 @@
 package ehb.multec.werksuk;
 
-public abstract class BakeInOven {
-
+public abstract class BakeInOven implements Taart {
 
     final void prepareTaart()
 {
@@ -28,6 +27,7 @@ public abstract class BakeInOven {
     public void bakeInOven() {
         System.out.println("bake in oven for 30 minutes");
     }
+
 
 }
 /*1. Preheat oven
