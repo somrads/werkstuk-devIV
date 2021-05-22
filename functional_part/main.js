@@ -14,8 +14,11 @@ function cakeMaker2(cake){
     }
 }
 
-const newCake2 = toppings.map(cakeMaker2("cake"))
+const newCake2 = toppings.map(cakeMaker2("cake"));
+document.getElementById("cakes").innerHTML += `<p>${newCake2}</p>`;
 console.log(newCake2);
+
+
 
   
   
