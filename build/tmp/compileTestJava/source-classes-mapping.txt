@@ -1,2 +1,4 @@
 ehb/multec/werksuk/CakeMakerTest.java
  ehb.multec.werksuk.CakeMakerTest
+ehb/multec/werksuk/PlainCakeTest.java
+ ehb.multec.werksuk.PlainCakeTest

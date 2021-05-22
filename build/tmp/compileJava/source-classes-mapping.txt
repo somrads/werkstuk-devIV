@@ -10,8 +10,8 @@ ehb/multec/werksuk/Bakery.java
  ehb.multec.werksuk.Bakery
  ehb.multec.werksuk.Bakery$1
  ehb.multec.werksuk.Bakery$BakeryHolder
-ehb/multec/werksuk/PlainCake.java
- ehb.multec.werksuk.PlainCake
+ehb/multec/werksuk/MakePlainCake.java
+ ehb.multec.werksuk.MakePlainCake
 ehb/multec/werksuk/WhipCream.java
  ehb.multec.werksuk.WhipCream
 ehb/multec/werksuk/MakeCupCake.java
@@ -20,5 +20,5 @@ ehb/multec/werksuk/Toppings.java
  ehb.multec.werksuk.Toppings
 ehb/multec/werksuk/CupCake.java
  ehb.multec.werksuk.CupCake
-ehb/multec/werksuk/MakePlainCake.java
- ehb.multec.werksuk.MakePlainCake
+ehb/multec/werksuk/PlainCake.java
+ ehb.multec.werksuk.PlainCake
