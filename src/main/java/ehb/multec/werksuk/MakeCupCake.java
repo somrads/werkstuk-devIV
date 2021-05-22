@@ -15,7 +15,7 @@ public class MakeCupCake extends BakeInOven{
 
     @Override
     void putInBakeForm() {
-        System.out.println("pour the batter in small cake pans");
+        System.out.println("Pour the batter in small cake pans");
 
     }
     @Override

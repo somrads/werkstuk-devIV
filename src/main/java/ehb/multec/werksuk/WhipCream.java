@@ -5,12 +5,12 @@ public class WhipCream extends Toppings{
     public WhipCream(Cake newCake) {
         super(newCake);
 
-        System.out.println("Suikerpoeder bijgevoegd");
+        System.out.println("Added Whipped cream");
 
     }
 
     public String getDescription(){
-        return tempCake.getDescription() + ", Slagroom";
+        return tempCake.getDescription() + ", Whipped Cream";
     }
 
     public double getCost(){

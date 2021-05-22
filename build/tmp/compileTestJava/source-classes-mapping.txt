@@ -1,2 +1,2 @@
-ehb/multec/werksuk/TaartMakerTest.java
- ehb.multec.werksuk.TaartMakerTest
+ehb/multec/werksuk/CakeMakerTest.java
+ ehb.multec.werksuk.CakeMakerTest

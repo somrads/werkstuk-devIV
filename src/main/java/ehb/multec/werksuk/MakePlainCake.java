@@ -12,7 +12,7 @@ public class MakePlainCake extends BakeInOven{
     }
     @Override
     void putInBakeForm() {
-        System.out.println("pour the batter in a big cake pan");
+        System.out.println("Pour the batter in a big cake pan");
     }
 
     @Override

@@ -1,5 +1,5 @@
 package ehb.multec.werksuk;
-/* singleton we maken een bakkerij*/
+
 
 public class Bakery
 {
