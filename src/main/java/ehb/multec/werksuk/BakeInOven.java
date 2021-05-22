@@ -1,12 +1,12 @@
 package ehb.multec.werksuk;
 
-public abstract class BakeInOven implements Taart {
+public abstract class BakeInOven {
 
-    final void prepareTaart()
+    final void prepareCake()
 {
     preheatOven();
     mixBatter();
-    putInBakVorm();
+    putInBakeForm();
     bakeInOven();
     
 }
@@ -21,7 +21,7 @@ public abstract class BakeInOven implements Taart {
    public void mixBatter() {
        System.out.println("mix the ingredients (milk, flour, baking soda, eggs and sugar) till its batter");
     }
-    abstract void putInBakVorm();
+    abstract void putInBakeForm();
 
 
     public void bakeInOven() {

@@ -11,7 +11,7 @@ public class MakePlainCake extends BakeInOven{
         super.mixBatter();
     }
     @Override
-    void putInBakVorm() {
+    void putInBakeForm() {
         System.out.println("pour the batter in a big cake pan");
     }
 

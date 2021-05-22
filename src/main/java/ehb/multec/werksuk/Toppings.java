@@ -1,18 +1,18 @@
 package ehb.multec.werksuk;
 
-abstract class Toppings implements Taart {
-    protected Taart tempTaart;
+abstract class Toppings implements Cake {
+    protected Cake tempCake;
 
-    public Toppings(Taart newTaart){
+    public Toppings(Cake newCake){
 
-        tempTaart = newTaart;
+        tempCake = newCake;
     }
 
     public String getDescription(){
-        return tempTaart.getDescription();
+        return tempCake.getDescription();
     }
 
     public double getCost(){
-        return tempTaart.getCost();
+        return tempCake.getCost();
     }
 }

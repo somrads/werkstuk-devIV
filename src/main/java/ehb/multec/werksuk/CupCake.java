@@ -1,6 +1,6 @@
 package ehb.multec.werksuk;
 
-public class CupCake implements Taart{
+public class CupCake implements Cake {
     @Override
     public String getDescription() {
         return "Cup cake";

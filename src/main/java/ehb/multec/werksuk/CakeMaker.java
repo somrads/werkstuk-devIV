@@ -1,6 +1,6 @@
 package ehb.multec.werksuk;
 
-public class TaartMaker {
+public class CakeMaker {
 
     public static void main(String[] args){
 

@@ -1,8 +1,8 @@
 package ehb.multec.werksuk;
 
-public class Chocola extends Toppings{
-    public Chocola(Taart newTaart) {
-        super(newTaart);
+public class Chocolate extends Toppings{
+    public Chocolate(Cake newCake) {
+        super(newCake);
 
         System.out.println("Frosting bijgevoegd");
 
@@ -11,10 +11,10 @@ public class Chocola extends Toppings{
     }
 
     public String getDescription(){
-        return tempTaart.getDescription() + ", Chocola";
+        return tempCake.getDescription() + ", Chocola";
     }
 
     public double getCost(){
-        return tempTaart.getCost() + 5.00;
+        return tempCake.getCost() + 5.00;
     }
 }

@@ -1,10 +1,7 @@
 package ehb.multec.werksuk;
 
-public abstract class MakeCupCake extends BakeInOven{
+public class MakeCupCake extends BakeInOven{
 
-    public MakeCupCake(Slagroom slagroom) {
-        super();
-    }
 
     @Override
     public void preheatOven() {
@@ -17,7 +14,7 @@ public abstract class MakeCupCake extends BakeInOven{
     }
 
     @Override
-    void putInBakVorm() {
+    void putInBakeForm() {
         System.out.println("pour the batter in small cake pans");
 
     }

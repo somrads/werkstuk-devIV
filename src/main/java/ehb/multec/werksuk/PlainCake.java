@@ -1,6 +1,6 @@
 package ehb.multec.werksuk;
 
-public class PlainTaart implements Taart {
+public class PlainCake implements Cake {
 
     @Override
     public String getDescription() {

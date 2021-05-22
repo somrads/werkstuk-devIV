@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ehb.multec.werksuk.TaartMakerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-22T13:25:55" hostname="Manishs-MacBook-Pro.local" time="0.326">
+  <properties/>
+  <testcase name="main()" classname="ehb.multec.werksuk.TaartMakerTest" time="0.326"/>
+  <system-out><![CDATA[instructies voor cupcake
+preheat oven 360°
+mix the ingredients (milk, flour, baking soda, eggs and sugar) till its batter
+pour the batter in small cake pans
+bake in oven for 30 minutes
+instructies voor plain cakes
+preheat oven 360°
+mix the ingredients (milk, flour, baking soda, eggs and sugar) till its batter
+pour the batter in a big cake pan
+bake in oven for 30 minutes
+Suikerpoeder bijgevoegd
+Frosting bijgevoegd
+Chocola bijgevoegd
+52.0
+Suikerpoeder bijgevoegd
+Frosting bijgevoegd
+Chocola bijgevoegd
+Suikerpoeder bijgevoegd
+chocolade taart:
+Ingredients:Sponge cake, Slagroom, ChocolaPrice:52.0
+chocolade cup cake:
+Ingredients:Cup cake, Slagroom, ChocolaPrice:11.0
+slagroom taart:
+Ingredients:Sponge cake, SlagroomPrice:47.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

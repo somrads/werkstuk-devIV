@@ -1,6 +1,6 @@
 package ehb.multec.werksuk;
 
-public  interface Taart{
+public  interface Cake {
     public String getDescription();
 
     public double getCost();
