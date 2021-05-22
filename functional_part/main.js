@@ -2,43 +2,55 @@ console.log("loaded");
 
 //decorater pattern, add different toppings on cake = new cake
 
-const cake = ["cake"];
 const toppings = ["chocolate", "whip cream", "strawberry"]
 
-function cakesWeGot(topping){
-    toppings.forEach((topping)=>{
-        htmlString = "";
-    console.log(topping);
-    
-    htmlString = `<li>${topping} ${cake}</li> `
-    document.getElementById("cakes").innerHTML += htmlString
-    })
-
+function cakeMaker(cake, topping){
+    return `${cake} ${topping}`;
 }
 
+function cakeMaker2(topping){
+    return function (cake){
+        return `${cake} ${topping}`;
+    }
+}
+
+const newCake2 = toppings.map(cakeMaker2("cake"))
+console.log(newCake2);
+
+  
+  
+  
 
 
-cakesWeGot();
-/*
-toppings.forEach((toppings)=> {
-    htmlString = "";
-    console.log(toppings, cake);
-    
-    htmlString = `<li>${toppings} ${cake}</li> `
-    document.getElementById("cakes").innerHTML += htmlString
-});
-*/
-
-//template patteren = stappen plan to make cupCakes or plainclake
 
 
-/*
-htmlString = "";
-    console.log(toppings, cake)
- 
-    htmlString = `<li> ${toppings} ${cake} </li>`
-    console.log(toppings, cake)
-   */ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
 
   
   
