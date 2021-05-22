@@ -4,13 +4,13 @@ console.log("loaded");
 
 const toppings = ["chocolate", "whip cream", "strawberry"]
 
-function cakeMaker(cake, topping){
-    return `${cake} ${topping}`;
+function cakeMaker(topping, cake){
+    return `${topping} ${cake}`;
 }
 
-function cakeMaker2(topping){
-    return function (cake){
-        return `${cake} ${topping}`;
+function cakeMaker2(cake){
+    return function (topping){
+        return `${topping} ${cake}`;
     }
 }
 
