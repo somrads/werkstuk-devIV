@@ -1,6 +1,6 @@
 console.log("loaded");
 
-//decorater patteren, add diffrent toppings on cake = new cake
+//decorater pattern, add different toppings on cake = new cake
 
 const cake = ["cake"];
 const toppings = ["chocolate", "whip cream", "strawberry"]
@@ -15,6 +15,9 @@ function cakesWeGot(topping){
     })
 
 }
+
+
+
 cakesWeGot();
 /*
 toppings.forEach((toppings)=> {
