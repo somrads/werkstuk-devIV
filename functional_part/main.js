@@ -14,8 +14,8 @@ function cakeMaker2(cake){
     }
 }
 
-const newCake2 = toppings.map(cakeMaker2("cake"))
-console.log(newCake2);
+const cakeWithTopping = toppings.map(cakeMaker2("cake"))
+console.log(cakeWithTopping);
 
   
   
