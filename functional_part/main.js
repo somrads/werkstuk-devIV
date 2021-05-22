@@ -2,7 +2,7 @@ console.log("loaded");
 
 //decorater pattern, add different toppings on cake = new cake
 
-const toppings = ["chocolate", "whip cream", "strawberry"]
+const toppings = ["chocolate", "whip cream", "strawberry", "carrot", "oreo"]
 
 function cakeMaker(topping, cake){
     return `${topping} ${cake}`;
@@ -21,7 +21,9 @@ console.log(cakeWithTopping);
   
   
 
+function quickSort(array){
 
+}
 
 
 
