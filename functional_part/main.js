@@ -18,6 +18,8 @@ const newCake = toppings.map(cakeMaker2("cake"));
 document.getElementById("cakes").innerHTML += `<p>${newCake}</p>`;
 console.log(newCake);
 
+
+// quicksort algorithm, sorts on the last index of the array
 function quickSort(array){
     if(array.length <= 1){
         return array;
