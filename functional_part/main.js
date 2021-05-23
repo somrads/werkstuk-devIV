@@ -14,40 +14,29 @@ function cakeMaker2(cake){
     }
 }
 
+const newCake = toppings.map(cakeMaker2("cake"));
+document.getElementById("cakes").innerHTML += `<p>${newCake}</p>`;
+console.log(newCake);
+
 
 function quickSort(array){
-    if(array.length == 1){
+    if(array.length <= 1){
         return array;
     }
-const newCake2 = toppings.map(cakeMaker2("cake"));
-document.getElementById("cakes").innerHTML += `<p>${newCake2}</p>`;
-console.log(newCake2);
-
 
     const pivot = array[array.length - 1]
     const leftArr = [];
     const rightArr = [];
-    for(let i = 0; i< array.length - 1; i++){
-        if(array[i] < pivot) {
-            leftArr.push(array[i]);
-        } else {
-            rightArr.push(array[i]);
-        }
+
+    for(const element of array.slice(0, array.length -1)){
+        element < pivot ? leftArr.push(element) : rightArr.push(element);
     }
 
-    if(leftArr.length > 0 && rightArr.length > 0) {
-        return[...quickSort(leftArr), pivot, ...quickSort(rightArr)]
-    } else if ( leftArr > 0) {
-        return[...quickSort(leftArr), pivot];
-    } else {
-        return[pivot, ...quickSort(rightArr)]
-    }
+    return[...quickSort(leftArr), pivot, ...quickSort(rightArr)]
+   
 }
 
 console.log(quickSort(toppings));
-
-const cakeWithTopping = toppings.map(quickSort(cakeMaker2("cake")));
-console.log(cakeWithTopping);
 
 
 
