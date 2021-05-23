@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ehb.multec.werksuk.CakeMakerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-23T10:26:06" hostname="Manishs-MacBook-Pro.local" time="0.029">
+  <properties/>
+  <testcase name="makeCakes()" classname="ehb.multec.werksuk.CakeMakerTest" time="0.029"/>
+  <system-out><![CDATA[Cupcake recipe
+Preheat oven 170 degrees°
+Mix the ingredients (milk, flour, baking soda, eggs and sugar) till its batter
+Pour the batter in small cake pans
+Bake in the oven for 30 minutes
+Sponge cake recipe
+Preheat oven 170 degrees°
+Mix the ingredients (milk, flour, baking soda, eggs and sugar) till its batter
+Pour the batter in a big cake pan
+Bake in the oven for 30 minutes
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
