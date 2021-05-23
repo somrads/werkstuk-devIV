@@ -18,7 +18,6 @@ const newCake = toppings.map(cakeMaker2("cake"));
 document.getElementById("cakes").innerHTML += `<p>${newCake}</p>`;
 console.log(newCake);
 
-
 function quickSort(array){
     if(array.length <= 1){
         return array;
