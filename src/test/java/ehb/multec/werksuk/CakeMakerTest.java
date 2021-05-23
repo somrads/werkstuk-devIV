@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class CakeMakerTest {
-//template methode pattern unit test
+//template methode pattern unit test getest als feature
 
   @Test
   void makeCakes(){
@@ -25,7 +25,7 @@ class CakeMakerTest {
     plaincake.bakeInOven();
 
   }
-//decorater pattern unit test
+//decorater pattern unit test gestest als feature
 @Test
 void addTopping(){
   Cake chocoCake = new Chocolate(new WhipCream(new PlainCake()));
