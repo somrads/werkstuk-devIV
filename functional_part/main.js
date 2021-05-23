@@ -39,7 +39,7 @@ function quickSort(array) {
     } catch (error) {
         console.log("Error with quicksort function");
     }
-
+ 
 }
 
 console.log(quickSort(toppings));
