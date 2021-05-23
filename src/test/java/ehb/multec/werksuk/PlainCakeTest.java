@@ -15,6 +15,9 @@ class PlainCakeTest {
 
     @Test
     void getCost() {
+        Cake cake = new PlainCake();
+        assertEquals(44.00, cake.getCost());
+       // assertEquals(45.00, cake.getCost()); //returns error
     }
 
 }

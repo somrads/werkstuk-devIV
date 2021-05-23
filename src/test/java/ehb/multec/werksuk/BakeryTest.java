@@ -7,6 +7,8 @@ class BakeryTest {
 
     @Test
     void getInstance() {
-
+        Bakery ourBakery = Bakery.getInstance();
+        Bakery newBakery = Bakery.getInstance();
+        assertEquals(ourBakery, newBakery);
     }
 }
